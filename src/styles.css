@@ -2,5 +2,5 @@
 @import "tailwindcss";
 
 @plugin "daisyui" {
-    themes: nord --default, dark --prefersdark;
+    themes: sunset --default, dark --prefersdark;
 }
